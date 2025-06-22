@@ -81,7 +81,6 @@ With a background in **Electronics & Communication Engineering**, I specialize i
 
 📧 **Email**: mohamedhosamothman@gmail.com  
 📍 **Location**: Cairo, Egypt  
-🔗 **GitHub**: [mohamedhosam4](https://github.com/mohamedhosam4)
 
 ---
 
