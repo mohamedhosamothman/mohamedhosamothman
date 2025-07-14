@@ -43,6 +43,14 @@ With a background in **Electronics & Communication Engineering**, I specialize i
 
 ## 📌 Featured Projects
 
+
+🔸 **[Pixar Films SQL Analysis – SQL Server](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)**  
+🎥 *Comprehensive database project analyzing Pixar films*  
+- Imported and normalized data from Excel into SQL Server  
+- Wrote six detailed SQL queries covering ROI, awards, genres, and directors  
+- Formatted outputs with percentages and millions, sorted for insights  
+
+
 🔸 **[Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosam4/Branch-Services-Dashboard-Sql-Power-Bi)**  
 💡 *Real-time analysis of service performance across branches*  
 - Connected to SQL Server using DirectQuery  
