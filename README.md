@@ -5,37 +5,38 @@
 <h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
 
 <p align="center">
-  <b>Data Analyst | SQL | Power BI | Excel | Python | Looker Studio</b>
+  <b><i>Data Analyst | SQL ⚙️ | Power BI 📊 | Excel 📈 | Python 🐍 | Looker Studio 🌐</i></b>
 </p>
 
 <p align="center">
   <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://kaggle.com/mohamedhosamothman"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="https://kaggle.com/mohamedhosamothman"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌟 About Me
 
 <details>
-  <summary><strong>Who am I?</strong></summary>
+  <summary><strong>✨ Click to learn about me</strong></summary>
   <p>
-    I'm <strong>Mohamed Hosam Othman</strong>, a data analyst with hands-on experience in transforming raw data into actionable business insights.
-    With a background in <strong>Electronics & Communication Engineering</strong>, I specialize in <strong>Power BI, SQL, Excel, and Python</strong> for building dashboards, automating workflows, and data storytelling.
+    I'm <strong>Mohamed Hosam Othman</strong>, a passionate data analyst who transforms numbers into narratives.  
+    Skilled in <strong>Power BI, SQL, Excel, and Python</strong> — my superpower is turning messy data into beautiful dashboards and smart insights.
   </p>
 </details>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🔧 Skills & Tools
 
 <details>
-<summary><strong>🔧 Technologies</strong></summary><br>
+<summary><strong>🛠️ Tech Stack</strong></summary><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -47,7 +48,7 @@
 </details>
 
 <details>
-<summary><strong>📊 Capabilities</strong></summary><br>
+<summary><strong>📊 What I Do</strong></summary><br>
 
 - SQL Querying & Data Modeling  
 - ETL & Data Cleaning  
@@ -55,70 +56,73 @@
 - DAX & KPI Calculations  
 - Python for EDA & Visualization  
 - Reporting Automation  
-- Business KPIs Tracking  
+- Business KPI Monitoring  
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Showcase
 
-<details><summary><strong>🎬 Pixar Films SQL Analysis</strong></summary>
+<details><summary>🎥 <strong>Pixar Films SQL Analysis</strong></summary>
 <ul>
-  <li><a href="https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis">GitHub Repo</a></li>
-  <li>Analyzed ROI, awards, and trends using SQL Server.</li>
+  <li><a href="https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis">Repository Link</a></li>
+  <li>Analyzed movie ROI, award trends, and genres using SQL Server.</li>
 </ul>
 </details>
 
-<details><summary><strong>🏢 Branch Services Dashboard</strong></summary>
+<details><summary>🏬 <strong>Branch Services Dashboard (Power BI + SQL)</strong></summary>
 <ul>
-  <li><a href="https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi">GitHub Repo</a></li>
-  <li>Used Power BI + SQL Server for real-time performance tracking.</li>
+  <li><a href="https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi">Repository Link</a></li>
+  <li>Live insights via DirectQuery, DAX KPIs, and interactive filters.</li>
 </ul>
 </details>
 
-<details><summary><strong>👥 HR Dashboard</strong></summary>
+<details><summary>👥 <strong>HR Dashboard – Power BI</strong></summary>
 <ul>
-  <li><a href="https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI">GitHub Repo</a></li>
-  <li>Tracked employee attrition, training cost, and diversity.</li>
+  <li><a href="https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI">Repository Link</a></li>
+  <li>Employee performance, attrition, and training analysis with DAX.</li>
 </ul>
 </details>
 
-<details><summary><strong>📈 US Sales Dashboard (Excel)</strong></summary>
+<details><summary>📈 <strong>US Sales Dashboard – Excel</strong></summary>
 <ul>
-  <li><a href="https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017">GitHub Repo</a></li>
-  <li>Visualized 4-year KPIs using Power Query and Pivot Tables.</li>
+  <li><a href="https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017">Repository Link</a></li>
+  <li>PivotTables + Power Query for multi-year sales insights.</li>
 </ul>
 </details>
 
-<details><summary><strong>🌐 Sales Dashboard (Looker Studio)</strong></summary>
+<details><summary>🌍 <strong>Looker Studio Sales Report</strong></summary>
 <ul>
   <li><a href="https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2">Live Report</a></li>
-  <li>Interactive filters with clean and responsive layout.</li>
+  <li>Cloud-based dashboard with responsive filtering.</li>
 </ul>
 </details>
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
 
-- Introduction to Power BI – DataCamp (Jul 2025)  
-- Introduction to DAX – DataCamp (Jul 2025)  
-- Introduction to SQL – DataCamp (Jul 2025)  
-- Intermediate SQL – DataCamp (Jul 2025)  
+- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
+- ✅ Introduction to DAX – DataCamp (Jul 2025)  
+- ✅ Introduction to SQL – DataCamp (Jul 2025)  
+- ✅ Intermediate SQL – DataCamp (Jul 2025)  
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact Me
 
 <p align="center">
   <a href="mailto:mohamedhosamothman@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">🔗 LinkedIn</a> • 
-  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a>
+  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a> • 
+  <a href="https://kaggle.com/mohamedhosamothman">📊 Kaggle</a>
 </p>
 
-<p align="center"><i>Made with ❤️ by Mohamed Hosam Othman</i></p>
+---
+
+<p align="center"><i>Made with ❤️ and a touch of data magic by Mohamed Hosam Othman</i></p>
