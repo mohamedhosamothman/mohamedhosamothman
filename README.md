@@ -112,5 +112,11 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=4000&pause=1000&color=34D399&center=true&width=600&lines=Crafted+with+💡+data+logic+%2B+📊+visual+magic+by+Mohamed+Hosam!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&width=500&lines=Crafted+with+%F0%9F%92%9C+and+Data+Magic+%F0%9F%94%AE+by+Mohamed+Hosam+Othman" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Enthusiast-%F0%9F%94%AE-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Love%20for%20Tech-%E2%9D%A4-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Built%20with%20passion-%F0%9F%94%A5-orange?style=flat-square">
 </p>
