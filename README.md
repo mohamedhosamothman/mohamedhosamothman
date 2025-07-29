@@ -86,19 +86,7 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 
 ## 🎓 Certifications 🏅📜
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
-</p>
-
-<ul>
-  <li>📘 Introduction to Power BI – DataCamp (Jul 2025)</li>
-  <li>📘 Introduction to DAX – DataCamp (Jul 2025)</li>
-  <li>📘 Introduction to SQL – DataCamp (Jul 2025)</li>
-  <li>📘 Intermediate SQL – DataCamp (Jul 2025)</li>
-</ul>
-
----
+<table> <tr> <td>🎖️ <b>Introduction to Power BI</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/78d5cbffa15d721bc75ff42a4edd9c2983bdc075">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Introduction to DAX in Power BI</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b836027e9aaf6b1d12653f31b682d044c320b33e">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Introduction to SQL</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a4652725c8191aee5ac04b282745ac5045d67661">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Intermediate SQL</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6a5a80f7cb38a45ad0dfccddf774225e1a1c27c9">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> </table>
 
 ## 📫 Contact Me
 
