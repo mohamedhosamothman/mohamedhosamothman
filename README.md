@@ -2,9 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedhosam4&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
-<h1 align="center">
-  ✨ <span style="color:#facc15; font-weight:bold;">Mohamed Hosam Othman</span> ✨
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Hosam+Othman;Data+Analyst+%7C+BI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
 
 <p align="center">
   <b><i>🔢 Data Analyst | 🧠 Insights Enthusiast | ⚙️ Business Problem Solver</i></b>
