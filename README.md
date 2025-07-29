@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  ✨ <span style="color:#facc15; font-weight:bold;">Mohamed Hosam Othman</span> ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7D900&center=true&vCenter=true&width=600&lines=✨+Mohamed+Hosam+Othman+✨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -21,12 +21,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Analyst** with a strong foundation in **Electronics & Communication Engineering**, and a deep curiosity for turning data into business value.  
-I specialize in designing insightful dashboards, cleaning and modeling large datasets, and communicating stories hidden in numbers.
+I'm a passionate **Data Analyst** with a strong background in **Electronics & Communication Engineering**, and a deep curiosity for turning raw data into business value.
 
-🔍 With hands-on experience using **SQL**, **Power BI**, **Excel**, **Python**, and **Looker Studio**, I help teams make data-informed decisions that improve performance and efficiency.
+🔍 I work with tools like **SQL**, **Power BI**, **Excel**, **Python**, and **Looker Studio** to design dashboards, automate reports, and extract impactful insights.
 
-💡 My work blends technical precision with storytelling — whether it’s optimizing KPIs, building automated reports, or solving business challenges using data.
+💡 I combine technical skills with storytelling to drive smarter decisions.
 
 ---
 
@@ -47,42 +46,38 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ## 📌 Core Skills
 
-- 🔍 Data Exploration & Cleansing (ETL)  
-- 🧠 Advanced SQL Queries & Data Modeling  
-- 📊 Interactive Dashboard Development  
-- 🧮 DAX for KPI Calculations  
-- 📈 Data Visualization & Storytelling  
-- 🐍 Python for Analysis (Pandas, Matplotlib, Seaborn)  
-- 🗃️ Relational Database Management with SSMS  
-- 📤 Reporting Automation for Stakeholders  
+- SQL Querying & Data Modeling  
+- ETL & Data Cleaning  
+- KPI Calculation using DAX  
+- Dashboard Design (Power BI, Excel, Looker Studio)  
+- Data Visualization & Storytelling  
+- Reporting Automation  
+- Relational Database Management (SSMS)  
+- Exploratory Data Analysis (Python)
 
 ---
 
 ## 🚀 Projects Showcase
 
 ### 🎬 [Pixar Films SQL Analysis](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)
-- Performed deep dive into film performance using SQL Server  
-- Analyzed ROI, genres, awards, and profitability metrics  
+- Analyzed Pixar film performance, ROI, and award trends using SQL Server.
 
 ### 🏢 [Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi)
-- Real-time branch performance dashboard with DirectQuery  
-- Custom DAX KPIs and geographic breakdown  
+- Visualized real-time branch performance with DAX KPIs and SQL integration.
 
 ### 👥 [HR Dashboard – Power BI](https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI)
-- Dynamic analysis of attrition, diversity, hiring, and training  
-- Built with Power Query and advanced measures  
+- Tracked attrition, diversity, and training data using Power Query and DAX.
 
 ### 📈 [US Sales Dashboard – Excel](https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017)
-- Tracked 4-year sales data using Power Pivot and slicers  
-- Included KPIs like net sales, profit margin, and return rate  
+- Built interactive Excel reports with Power Pivot and KPI tracking.
 
 ### 🌍 [Sales Report – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)
-- Fully interactive dashboard for executives  
-- Filtered by region, category, date, and method  
+- Created an online, filterable dashboard with region/category breakdowns.
 
 ---
 
 ## 🎓 Certifications
+
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
@@ -93,12 +88,10 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135792.png" width="80" title="SQL Certificate" />
 </p>
 
-<ul>
-  <li>✅ <strong>Introduction to Power BI</strong> – DataCamp (Jul 2025)</li>
-  <li>✅ <strong>Introduction to DAX</strong> – DataCamp (Jul 2025)</li>
-  <li>✅ <strong>Introduction to SQL</strong> – DataCamp (Jul 2025)</li>
-  <li>✅ <strong>Intermediate SQL</strong> – DataCamp (Jul 2025)</li>
-</ul>
+- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
+- ✅ Introduction to DAX – DataCamp (Jul 2025)  
+- ✅ Introduction to SQL – DataCamp (Jul 2025)  
+- ✅ Intermediate SQL – DataCamp (Jul 2025)
 
 ---
 
@@ -113,4 +106,4 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ---
 
-<p align="center"><i>Made with ❤️ and a spark of data magic by Mohamed Hosam Othman</i></p>
+<p align="center"><i>Built with ❤️, data, and a spark of digital creativity by Mohamed Hosam Othman</i></p>
