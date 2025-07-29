@@ -83,15 +83,22 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ---
 
 ## 🎓 Certifications
-
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
 
-- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
-- ✅ Introduction to DAX – DataCamp (Jul 2025)  
-- ✅ Introduction to SQL – DataCamp (Jul 2025)  
-- ✅ Intermediate SQL – DataCamp (Jul 2025)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" title="Power BI Certificate" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165067.png" width="80" title="DAX Certificate" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135792.png" width="80" title="SQL Certificate" />
+</p>
+
+<ul>
+  <li>✅ <strong>Introduction to Power BI</strong> – DataCamp (Jul 2025)</li>
+  <li>✅ <strong>Introduction to DAX</strong> – DataCamp (Jul 2025)</li>
+  <li>✅ <strong>Introduction to SQL</strong> – DataCamp (Jul 2025)</li>
+  <li>✅ <strong>Intermediate SQL</strong> – DataCamp (Jul 2025)</li>
+</ul>
 
 ---
 
