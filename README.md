@@ -62,22 +62,28 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ## 🚀 Projects Showcase
 
-<!-- Same as before; محتوى المشاريع ممتاز بالفعل، بدون تعديل -->
+### 🎬 [Pixar Films SQL Analysis](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)
+- Performed deep dive into film performance using SQL Server  
+- Analyzed ROI, genres, awards, and profitability metrics  
+
+### 🏢 [Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi)
+- Real-time branch performance dashboard with DirectQuery  
+- Custom DAX KPIs and geographic breakdown  
+
+### 👥 [HR Dashboard – Power BI](https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI)
+- Dynamic analysis of attrition, diversity, hiring, and training  
+- Built with Power Query and advanced measures  
+
+### 📈 [US Sales Dashboard – Excel](https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017)
+- Tracked 4-year sales data using Power Pivot and slicers  
+- Included KPIs like net sales, profit margin, and return rate  
+
+### 🌍 [Sales Report – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)
+- Fully interactive dashboard for executives  
+- Filtered by region, category, date, and method  
 
 ---
 
-## 📊 GitHub Stats (Enhanced)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=github_dark&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhosamothman&theme=github-dark-blue&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedhosamothman&theme=github_dark" />
-</p>
-
----
 
 ## 🎓 Certifications 🏅📜
 
