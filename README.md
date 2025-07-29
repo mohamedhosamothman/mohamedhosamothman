@@ -1,87 +1,123 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedhosam4&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
 <h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
 
 <p align="center">
-  <b>Data Analyst | SQL | Power BI | Excel | Python | Looker Studio</b><br>
-  <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <b>Data Analyst | SQL | Power BI | Excel | Python | Looker Studio</b>
+</p>
+
+<p align="center">
+  <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm **Mohamed Hosam Othman**, a data analyst with hands-on experience in transforming data into actionable business insights.  
-With a background in **Electronics & Communication Engineering**, I specialize in **Power BI**, **SQL**, **Excel**, and **Python** for building dashboards, automating workflows, and uncovering insights.
+<details>
+  <summary><strong>Who am I?</strong></summary>
+  <p>
+    I'm <strong>Mohamed Hosam Othman</strong>, a data analyst with hands-on experience in transforming raw data into actionable business insights.
+    With a background in <strong>Electronics & Communication Engineering</strong>, I specialize in <strong>Power BI, SQL, Excel, and Python</strong> for building dashboards, automating workflows, and data storytelling.
+  </p>
+</details>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 📌 Tools & Technologies  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-3582C4?style=flat&logoColor=white)
+<details>
+<summary><strong>🔧 Technologies</strong></summary><br>
 
-### 📊 Capabilities
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-3582C4?style=flat-square&logo=powerbi&logoColor=white" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>📊 Capabilities</strong></summary><br>
+
 - SQL Querying & Data Modeling  
 - ETL & Data Cleaning  
 - Dashboard Design (Power BI, Excel, Looker Studio)  
 - DAX & KPI Calculations  
-- Data Visualization & Storytelling  
 - Python for EDA & Visualization  
 - Reporting Automation  
-- Business KPIs Tracking
+- Business KPIs Tracking  
+
+</details>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **[Pixar Films SQL Analysis – SQL Server](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)**  
-🎬 *Analyzed Pixar film data focusing on ROI, awards, and trends using SQL queries.*
+<details><summary><strong>🎬 Pixar Films SQL Analysis</strong></summary>
+<ul>
+  <li><a href="https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis">GitHub Repo</a></li>
+  <li>Analyzed ROI, awards, and trends using SQL Server.</li>
+</ul>
+</details>
 
-🔹 **[Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi)**  
-🏢 *Real-time dashboard to analyze service distribution and identify underperforming branches.*
+<details><summary><strong>🏢 Branch Services Dashboard</strong></summary>
+<ul>
+  <li><a href="https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi">GitHub Repo</a></li>
+  <li>Used Power BI + SQL Server for real-time performance tracking.</li>
+</ul>
+</details>
 
-🔹 **[HR Dashboard – Power BI](https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI)**  
-👥 *Dynamic HR dashboard tracking attrition, training cost, and diversity KPIs.*
+<details><summary><strong>👥 HR Dashboard</strong></summary>
+<ul>
+  <li><a href="https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI">GitHub Repo</a></li>
+  <li>Tracked employee attrition, training cost, and diversity.</li>
+</ul>
+</details>
 
-🔹 **[US Sales Dashboard – Excel (2014–2017)](https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017)**  
-📈 *Advanced Excel dashboard using Power Query & Pivot for KPI tracking over 4 years.*
+<details><summary><strong>📈 US Sales Dashboard (Excel)</strong></summary>
+<ul>
+  <li><a href="https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017">GitHub Repo</a></li>
+  <li>Visualized 4-year KPIs using Power Query and Pivot Tables.</li>
+</ul>
+</details>
 
-🔹 **[Sales Dashboard – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)**  
-🌐 *Interactive sales report with region/category filters and responsive KPI visuals.*
+<details><summary><strong>🌐 Sales Dashboard (Looker Studio)</strong></summary>
+<ul>
+  <li><a href="https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2">Live Report</a></li>
+  <li>Interactive filters with clean and responsive layout.</li>
+</ul>
+</details>
 
 ---
 
-## 🚀 Currently
+## 📜 Certifications
 
-- 📚 Strengthening my skills in **data visualization**, **DAX**, and **business reporting**  
-- 🧩 Exploring more in **ETL automation**, **data storytelling**, and scalable dashboards  
-- 📈 Continuously applying real-world projects to enhance business decision-making  
+<p align="center">
+  <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
+</p>
 
----
-
-## 🎓 Certifications
-
-- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
-- ✅ Introduction to DAX – DataCamp (Jul 2025)  
-- ✅ Introduction to SQL – DataCamp (Jul 2025)  
-- ✅ Intermediate SQL – DataCamp (Jul 2025)
+- Introduction to Power BI – DataCamp (Jul 2025)  
+- Introduction to DAX – DataCamp (Jul 2025)  
+- Introduction to SQL – DataCamp (Jul 2025)  
+- Intermediate SQL – DataCamp (Jul 2025)  
 
 ---
 
 ## 📫 Contact Me
 
-📧 **Email**: mohamedhosamothman@gmail.com  
-📍 **Location**: Cairo, Egypt  
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedhosam4&style=flat-square&color=blue" alt="Profile views" />
+  <a href="mailto:mohamedhosamothman@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a>
 </p>
+
+<p align="center"><i>Made with ❤️ by Mohamed Hosam Othman</i></p>
