@@ -62,34 +62,21 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ## 🚀 Projects Showcase
 
-<!-- Same as before; محتوى المشاريع ممتاز بالفعل، بدون تعديل -->
+<!-- Projects section remains unchanged; customize if needed -->
 
 ---
 
-## 📊 GitHub Stats (Enhanced)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=github_dark&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhosamothman&theme=github-dark-blue&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedhosamothman&theme=github_dark" />
-</p>
-
----
-
-## 🎓 Certifications 🏅📜
+## 🎓 Certifications 🏅📜✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
 
 <ul>
-  <li>📘 Introduction to Power BI – DataCamp (Jul 2025)</li>
-  <li>📘 Introduction to DAX – DataCamp (Jul 2025)</li>
-  <li>📘 Introduction to SQL – DataCamp (Jul 2025)</li>
-  <li>📘 Intermediate SQL – DataCamp (Jul 2025)</li>
+  <li>✅ 📘 Introduction to Power BI – DataCamp (Jul 2025)</li>
+  <li>✅ 📘 Introduction to DAX – DataCamp (Jul 2025)</li>
+  <li>✅ 📘 Introduction to SQL – DataCamp (Jul 2025)</li>
+  <li>✅ 📘 Intermediate SQL – DataCamp (Jul 2025)</li>
 </ul>
 
 ---
@@ -106,5 +93,5 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=4000&pause=1000&color=34D399&center=true&width=600&lines=Crafted+with+💡+data+logic+%2B+📊+visual+magic+by+Mohamed+Hosam!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=4000&pause=1000&color=34D399&center=true&width=700&lines=Crafted+with+💡+logic%2C+📊+insight+%26+a+spark+of+✨+by+Mohamed+Hosam+Othman!" />
 </p>
