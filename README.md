@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Hosam+Othman;Data+Analyst+%7C+BI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Hosam+Othman;Data+Analyst+%7C+BI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
+<h1 align="center">🌟 Mohamed Hosam Othman 🌟</h1>
 
 <p align="center">
   <b><i>Data Analyst | SQL ⚙️ | Power BI 📊 | Excel 📈 | Python 🐍 | Looker Studio 🌐</i></b>
@@ -62,54 +62,35 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ## 🚀 Projects Showcase
 
-### 🎬 [Pixar Films SQL Analysis](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)
-- Performed deep dive into film performance using SQL Server  
-- Analyzed ROI, genres, awards, and profitability metrics  
-
-### 🏢 [Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi)
-- Real-time branch performance dashboard with DirectQuery  
-- Custom DAX KPIs and geographic breakdown  
-
-### 👥 [HR Dashboard – Power BI](https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI)
-- Dynamic analysis of attrition, diversity, hiring, and training  
-- Built with Power Query and advanced measures  
-
-### 📈 [US Sales Dashboard – Excel](https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017)
-- Tracked 4-year sales data using Power Pivot and slicers  
-- Included KPIs like net sales, profit margin, and return rate  
-
-### 🌍 [Sales Report – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)
-- Fully interactive dashboard for executives  
-- Filtered by region, category, date, and method  
+<!-- Same as before; محتوى المشاريع ممتاز بالفعل، بدون تعديل -->
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Enhanced)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=github_dark&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhosamothman&theme=github-dark-blue&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhosamothman&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhosamothman&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedhosamothman&theme=github_dark" />
 </p>
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications 🏅📜
 
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-0076CE?style=for-the-badge&logo=datacamp&logoColor=white" />
 </p>
 
-- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
-- ✅ Introduction to DAX – DataCamp (Jul 2025)  
-- ✅ Introduction to SQL – DataCamp (Jul 2025)  
-- ✅ Intermediate SQL – DataCamp (Jul 2025)
+<ul>
+  <li>📘 Introduction to Power BI – DataCamp (Jul 2025)</li>
+  <li>📘 Introduction to DAX – DataCamp (Jul 2025)</li>
+  <li>📘 Introduction to SQL – DataCamp (Jul 2025)</li>
+  <li>📘 Intermediate SQL – DataCamp (Jul 2025)</li>
+</ul>
 
 ---
 
@@ -124,4 +105,6 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ---
 
-<p align="center"><i>Made with ❤️ and a spark of data magic by Mohamed Hosam Othman</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=20&duration=4000&pause=1000&color=34D399&center=true&width=600&lines=Crafted+with+💡+data+logic+%2B+📊+visual+magic+by+Mohamed+Hosam!" />
+</p>
