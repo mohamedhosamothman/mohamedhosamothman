@@ -86,7 +86,39 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 
 ## 🎓 Certifications 🏅📜
-<table> <tr> <td>🎖️ <b>Introduction to Power BI</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/78d5cbffa15d721bc75ff42a4edd9c2983bdc075">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Introduction to DAX in Power BI</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b836027e9aaf6b1d12653f31b682d044c320b33e">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Introduction to SQL</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a4652725c8191aee5ac04b282745ac5045d67661">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> <tr> <td>🎖️ <b>Intermediate SQL</b></td> <td><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6a5a80f7cb38a45ad0dfccddf774225e1a1c27c9">🔗 View Certificate</a></td> <td>📅 July 2025</td> </tr> </table>
+
+<table align="center" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; border-bottom: 2px solid #00BFFF;">📜 Certificate</th>
+      <th style="padding: 10px; border-bottom: 2px solid #00BFFF;">🔗 Link</th>
+      <th style="padding: 10px; border-bottom: 2px solid #00BFFF;">📅 Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px;">🎖️ <strong>Introduction to Power BI</strong></td>
+      <td style="padding: 8px;"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/78d5cbffa15d721bc75ff42a4edd9c2983bdc075">View Certificate</a></td>
+      <td style="padding: 8px;">July 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">🎖️ <strong>Introduction to DAX in Power BI</strong></td>
+      <td style="padding: 8px;"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b836027e9aaf6b1d12653f31b682d044c320b33e">View Certificate</a></td>
+      <td style="padding: 8px;">July 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">🎖️ <strong>Introduction to SQL</strong></td>
+      <td style="padding: 8px;"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a4652725c8191aee5ac04b282745ac5045d67661">View Certificate</a></td>
+      <td style="padding: 8px;">July 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">🎖️ <strong>Intermediate SQL</strong></td>
+      <td style="padding: 8px;"><a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6a5a80f7cb38a45ad0dfccddf774225e1a1c27c9">View Certificate</a></td>
+      <td style="padding: 8px;">July 2025</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## 📫 Contact Me
 
