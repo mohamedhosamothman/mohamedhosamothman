@@ -1,87 +1,77 @@
 <h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
 
 <p align="center">
-  <b>Data Analyst | Python | SQL | Power BI | Excel | Looker Studio</b><br>
+  <b>Data Analyst | SQL | Power BI | Excel | Python | Looker Studio</b><br>
   <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://kaggle.com/mohamedhosamothman"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm **Mohamed Hosam Othman**, a data-driven professional passionate about turning raw data into clear, actionable insights.  
-With a background in **Electronics & Communication Engineering**, I specialize in designing dashboards, performing complex analysis, and crafting end-to-end BI solutions using tools like **Power BI**, **Python**, **SQL**, and **Excel**.
+I'm **Mohamed Hosam Othman**, a data analyst with hands-on experience in transforming data into actionable business insights.  
+With a background in **Electronics & Communication Engineering**, I specialize in **Power BI**, **SQL**, **Excel**, and **Python** for building dashboards, automating workflows, and uncovering insights.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 📌 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=sqlite&logoColor=white)
+### 📌 Tools & Technologies  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-3582C4?style=flat&logoColor=white)
 
 ### 📊 Capabilities
-- Data Cleaning & Transformation  
-- ETL Workflows  
-- Interactive Dashboard Design  
-- DAX & Advanced Data Modeling  
-- Business Reporting & Visualization  
-- Performance Optimization  
-- Data Storytelling  
+- SQL Querying & Data Modeling  
+- ETL & Data Cleaning  
+- Dashboard Design (Power BI, Excel, Looker Studio)  
+- DAX & KPI Calculations  
+- Data Visualization & Storytelling  
+- Python for EDA & Visualization  
+- Reporting Automation  
+- Business KPIs Tracking
 
 ---
 
 ## 📌 Featured Projects
 
+🔹 **[Pixar Films SQL Analysis – SQL Server](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)**  
+🎬 *Analyzed Pixar film data focusing on ROI, awards, and trends using SQL queries.*
 
-🔸 **[Pixar Films SQL Analysis – SQL Server](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)**  
-🎥 *Comprehensive database project analyzing Pixar films*  
-- Imported and normalized data from Excel into SQL Server  
-- Wrote six detailed SQL queries covering ROI, awards, genres, and directors  
-- Formatted outputs with percentages and millions, sorted for insights  
+🔹 **[Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosamothman/Branch-Services-Dashboard-Sql-Power-Bi)**  
+🏢 *Real-time dashboard to analyze service distribution and identify underperforming branches.*
 
+🔹 **[HR Dashboard – Power BI](https://github.com/mohamedhosamothman/HR-Dashboard-in-Power-BI)**  
+👥 *Dynamic HR dashboard tracking attrition, training cost, and diversity KPIs.*
 
-🔸 **[Branch Services Dashboard – Power BI + SQL](https://github.com/mohamedhosam4/Branch-Services-Dashboard-Sql-Power-Bi)**  
-💡 *Real-time analysis of service performance across branches*  
-- Connected to SQL Server using DirectQuery  
-- Structured CSV data into relational tables  
-- Created custom DAX KPIs with dynamic filters and visual cards  
+🔹 **[US Sales Dashboard – Excel (2014–2017)](https://github.com/mohamedhosamothman/Excel_Sales_Dashboard_USA_2014-2017)**  
+📈 *Advanced Excel dashboard using Power Query & Pivot for KPI tracking over 4 years.*
 
-🔸 **[HR Dashboard – Power BI](https://github.com/mohamedhosam4/HR-Dashboard-in-Power-BI)**  
-📊 *Advanced HR insights dashboard for employee management*  
-- Calculated attrition rates, performance scores, training spend  
-- Used Power Query + DAX for modeling and metrics  
-- Enabled deep filtering by department, gender, and hiring year  
-
-🔸 **[US Sales Dashboard – Excel (2014–2017)](https://github.com/mohamedhosam4/Excel_Sales_Dashboard_USA_2014-2017)**  
-📈 *Excel-based KPI dashboard with multi-year sales trends*  
-- Leveraged Power Pivot, DAX, and Power Query  
-- Included slicers by region, rep, category, return status  
-- Delivered analysis on profits, returns, and shipping cost  
-
-🔸 **[Sales Report – Google Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)**  
-🌍 *Interactive cloud dashboard for real-time decision-making*  
-- Designed filters by region, payment method, and category  
-- Visualized KPIs with clear, responsive layout  
-- Built for fast consumption and management-level storytelling  
+🔹 **[Sales Dashboard – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)**  
+🌐 *Interactive sales report with region/category filters and responsive KPI visuals.*
 
 ---
 
 ## 🚀 Currently
 
-- 🧠 Continuously advancing my expertise across all major data analysis tools, including **Power BI**, **SQL**, **Python**, **Excel**, and **Looker Studio**  
-- 📚 Actively working on enhancing my skills in data modeling, automation, performance optimization, and data storytelling  
-- 💡 Committed to staying ahead in the data field by learning industry best practices and applying them in real-world business scenarios
+- 📚 Strengthening my skills in **data visualization**, **DAX**, and **business reporting**  
+- 🧩 Exploring more in **ETL automation**, **data storytelling**, and scalable dashboards  
+- 📈 Continuously applying real-world projects to enhance business decision-making  
+
+---
+
+## 🎓 Certifications
+
+- ✅ Introduction to Power BI – DataCamp (Jul 2025)  
+- ✅ Introduction to DAX – DataCamp (Jul 2025)  
+- ✅ Introduction to SQL – DataCamp (Jul 2025)  
+- ✅ Intermediate SQL – DataCamp (Jul 2025)
 
 ---
 
