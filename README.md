@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  ✨ <span style="color:#facc15;">Mohamed Hosam Othman</span> ✨
+  ✨ <span style="color:#facc15; font-weight:bold;">Mohamed Hosam Othman</span> ✨
 </h1>
 
 <p align="center">
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:mohamedhosamothman@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mohamedhosamothman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://kaggle.com/mohamedhosamothman"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
@@ -21,21 +21,24 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohamed Hosam Othman**, a passionate and detail-driven **Data Analyst** with a background in **Electronics & Communication Engineering**.  
-I transform raw datasets into compelling insights and dashboards to support business decision-making.  
-My toolbox includes **Power BI**, **SQL Server Management Studio**, **Excel**, **Python**, and **Looker Studio** — tools I use to tell meaningful stories from data.
+I'm a passionate **Data Analyst** with a strong foundation in **Electronics & Communication Engineering**, and a deep curiosity for turning data into business value.  
+I specialize in designing insightful dashboards, cleaning and modeling large datasets, and communicating stories hidden in numbers.
+
+🔍 With hands-on experience using **SQL**, **Power BI**, **Excel**, **Python**, and **Looker Studio**, I help teams make data-informed decisions that improve performance and efficiency.
+
+💡 My work blends technical precision with storytelling — whether it’s optimizing KPIs, building automated reports, or solving business challenges using data.
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-%F0%9F%94%A5%20Studio%20Pro-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-3582C4?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
@@ -55,7 +58,7 @@ My toolbox includes **Power BI**, **SQL Server Management Studio**, **Excel**, *
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects Showcase
 
 ### 🎬 [Pixar Films SQL Analysis](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)
 - Performed deep dive into film performance using SQL Server  
@@ -88,7 +91,7 @@ My toolbox includes **Power BI**, **SQL Server Management Studio**, **Excel**, *
 - ✅ Introduction to Power BI – DataCamp (Jul 2025)  
 - ✅ Introduction to DAX – DataCamp (Jul 2025)  
 - ✅ Introduction to SQL – DataCamp (Jul 2025)  
-- ✅ Intermediate SQL – DataCamp (Jul 2025)  
+- ✅ Intermediate SQL – DataCamp (Jul 2025)
 
 ---
 
