@@ -2,9 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedhosam4&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
-<h1 align="center">
-  ✨ <span style="color:#facc15; font-weight:bold;">Mohamed Hosam Othman</span> ✨
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohamed+Hosam+Othman;Data+Analyst+%7C+BI+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">✨ Mohamed Hosam Othman ✨</h1>
 
 <p align="center">
   <b><i>Data Analyst | SQL ⚙️ | Power BI 📊 | Excel 📈 | Python 🐍 | Looker Studio 🌐</i></b>
@@ -79,6 +81,22 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ### 🌍 [Sales Report – Looker Studio](https://lookerstudio.google.com/reporting/7fc077a8-9d61-4102-88df-f5c24e98eea2)
 - Fully interactive dashboard for executives  
 - Filtered by region, category, date, and method  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedhosamothman&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhosamothman&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
