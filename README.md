@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=0FFFC2&center=true&vCenter=true&width=700&lines=✨+Mohamed+Hosam+Othman+✨;Data+Analyst+%7C+SQL+%7C+Power+BI+%7C+Python" alt="Digital Name Animation" />
+  ✨ <span style="color:#facc15; font-weight:bold;">Mohamed Hosam Othman</span> ✨
 </h1>
 
 <p align="center">
