@@ -124,24 +124,46 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ---
 
-## 📬 Get in Touch
+<hr>
 
-Thanks for scrolling all the way down 🙌  
-If you’d like to connect, collaborate, or just say hello — feel free to reach out:
+<!-- 🚀 Ultimate Contact & Call-to-Action Card -->
+<div align="center" style="
+    max-width:800px;
+    margin:40px auto;
+    padding:40px;
+    background:#ffffff;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:1.6;
+">
 
----
+  <!-- ✨ Headline -->
+  <h2 style="color:#2A9D8F; font-size:28px; margin-bottom:10px;">
+    🚀 Ready to turn data into impact?
+  </h2>
 
-### 🔗 LinkedIn  
-[www.linkedin.com/in/mohamed-hosam-analyst](https://www.linkedin.com/in/mohamed-hosam-analyst)
+  <!-- 🔍 Sub-text -->
+  <p style="font-size:18px; color:#264653; margin-bottom:30px;">
+    Let’s connect, collaborate, and build the next data-driven story together!
+  </p>
 
-### 📧 Email  
-[mohamedhosamothman@gmail.com](mailto:mohamedhosamothman@gmail.com)
+  <!-- 🔗 Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mohamedhosamothman@gmail.com" target="_blank" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="tel:+201024984060" target="_blank" style="margin:0 5px;">
+      <img src="https://img.shields.io/badge/Call_Me-+20%20102%20498%204060-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me"/>
+    </a>
+  </p>
 
-### 📞 Phone  
-[+20 102 498 4060](tel:+201024984060)
+  <!-- 📝 Final Inspirational Quote -->
+  <p style="margin-top:30px; font-size:16px; color:#6c757d; font-style:italic;">
+    “I don’t just analyze data — I ignite insights that power change.”
+  </p>
 
----
-
-> 💡 *I believe in the power of turning raw data into meaningful impact.*  
-> Let’s work together to uncover insights, solve real problems, and make data do magic.
-
+</div>
