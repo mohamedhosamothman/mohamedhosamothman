@@ -133,14 +133,19 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ---
 <hr>
 
-<p align="center">
-  <em>"I don't just analyze data — I uncover stories, solve problems, and spark decisions."</em><br><br>
-  <strong>Thank you for exploring my work 🙏</strong><br>
-  If my passion for data resonates with you — let's connect and build something impactful.
+<p align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.8;">
+  <em>
+    <strong style="font-size: 20px; color: #00BFFF;">❝ I don't just analyze data ❞</strong><br>
+    <span style="font-size: 18px; color: #555;">I uncover <b>stories</b>, solve <b>problems</b>, and spark <b>decisions</b>.</span>
+  </em><br><br>
+
+  <strong style="font-size: 18px; color: #4CAF50;">Thanks for scrolling all the way down! 🙏</strong><br>
+  <span style="font-size: 16px; color: #444;">If my passion for data speaks to you — let’s connect and create something impactful.</span>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
