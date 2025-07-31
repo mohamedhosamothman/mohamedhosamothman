@@ -122,49 +122,26 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 
 
-<hr>
+---
 
-<!-- 🌟 Final Message Card -->
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f0f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.06); line-height: 1.8;">
+## 📬 Get in Touch
 
-  <h3 style="color: #007acc; font-size: 24px; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
+Thanks for scrolling all the way down 🙌  
+If you’d like to connect, collaborate, or just say hello — feel free to reach out:
 
-  <p style="font-size: 18px; color: #222;">
-    I turn data into <strong style="color:#007acc;">insights</strong>,
-    <strong style="color:#007acc;">stories</strong>,
-    and <strong style="color:#007acc;">decisions that drive results</strong>.
-  </p>
+---
 
-  <p style="font-size: 17px; color: #43aa8b; margin-top: 20px;">
-    🚀 Thanks for visiting my GitHub!
-  </p>
+### 🔗 LinkedIn  
+[www.linkedin.com/in/mohamed-hosam-analyst](https://www.linkedin.com/in/mohamed-hosam-analyst)
 
-  <p style="font-size: 16px; color: #555;">
-    Let’s connect and make data do wonders!
-  </p>
+### 📧 Email  
+[mohamedhosamothman@gmail.com](mailto:mohamedhosamothman@gmail.com)
 
-  <!-- 🔗 Contact Links -->
-  <div style="margin: 30px 0;">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+### 📞 Phone  
+[+20 102 498 4060](tel:+201024984060)
 
-    <!-- Email -->
-    <a href="mailto:mohamedhosamothman@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+---
 
-    <!-- Phone -->
-    <a href="tel:+201024984060" target="_blank">
-      <img src="https://img.shields.io/badge/Phone-Call_Now-ff9933?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
-    </a>
-  </div>
+> 💡 *I believe in the power of turning raw data into meaningful impact.*  
+> Let’s work together to uncover insights, solve real problems, and make data do magic.
 
-  <!-- Text-based backup (in case badges don't load) -->
-  <p style="font-size: 15px; color: #333;">
-    📞 <a href="tel:+201024984060" style="color: #007acc; text-decoration: none;">+20 102 498 4060</a><br>
-    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #007acc; text-decoration: none;">mohamedhosamothman@gmail.com</a>
-  </p>
-
-</div>
