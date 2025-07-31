@@ -131,20 +131,16 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 </p>
 
 ---
-<!-- 👁️ GitHub Profile Views -->
+<hr>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedhosam4&style=for-the-badge&color=blue" alt="Profile views" />
+  <em>"I don't just analyze data — I uncover stories, solve problems, and spark decisions."</em><br><br>
+  <strong>Thank you for exploring my work 🙏</strong><br>
+  If my passion for data resonates with you — let's connect and build something impactful.
 </p>
 
-<!-- ⌨️ Typing Effect Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Empowering+decisions+with+data;By+Mohamed+Hosam+Othman" alt="Typing SVG" />
-</p>
-
-<!-- 🏷️ Custom Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-📊-blue?style=for-the-badge" alt="Data Analyst badge" />
-  <img src="https://img.shields.io/badge/BI%20Developer-🧠-purple?style=for-the-badge" alt="BI Developer badge" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-📚-green?style=for-the-badge" alt="Learner badge" />
-  <img src="https://img.shields.io/badge/Built%20with%20Passion-🔥-orange?style=for-the-badge" alt="Passion badge" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
