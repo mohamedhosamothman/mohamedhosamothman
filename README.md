@@ -133,31 +133,38 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 <hr>
 
-<!-- 👋 Inspiring Final Message -->
-<p align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.8;">
+<!-- 🌟 Final Statement - Centered & Styled -->
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  <strong style="font-size: 22px; color: #00BFFF;">❝ I don’t just analyze data... ❞</strong><br>
-  <span style="font-size: 18px; color: #555;">
-    I transform numbers into <b>insights</b>, <b>stories</b>, and <b>impactful actions</b>.
-  </span><br><br>
+  <h3 style="color: #00BFFF; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
 
-  <strong style="font-size: 19px; color: #4CAF50;">Thanks for exploring my portfolio! 🙏</strong><br>
-  <span style="font-size: 16px; color: #444;">
-    If you believe in the power of data like I do — let's connect and build something meaningful together.
-  </span>
-</p>
+  <p style="font-size: 18px; color: #444; max-width: 600px; margin: auto;">
+    I transform numbers into <strong style="color:#00BFFF;">insights</strong>,
+    <strong style="color:#00BFFF;">stories</strong>, and
+    <strong style="color:#00BFFF;">impactful actions</strong>.
+  </p>
 
-<!-- 🔗 LinkedIn Button -->
-<p align="center">
+  <p style="font-size: 17px; color: #4CAF50; margin-top: 20px;">
+    🚀 Thanks for exploring my portfolio!
+  </p>
+
+  <p style="font-size: 16px; color: #666;">
+    If you believe in the power of data like I do —<br>
+    let's <strong>connect</strong>, <strong>collaborate</strong>, and build something <strong>meaningful</strong>.
+  </p>
+
+  <!-- 🔗 LinkedIn Button -->
   <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</p>
 
-<!-- 📞 Contact Info -->
-<p align="center" style="font-size: 16px; color: #333;">
-  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 
-  <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
-    mohamedhosamothman@gmail.com
-  </a>
-</p>
+  <!-- 📞 Contact Info -->
+  <p style="font-size: 15px; color: #333; margin-top: 15px;">
+    📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 
+    <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
+      mohamedhosamothman@gmail.com
+    </a>
+  </p>
+
+</div>
+
