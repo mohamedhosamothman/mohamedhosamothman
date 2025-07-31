@@ -138,13 +138,12 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 <!-- ⌨️ Typing Effect Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Crafted+with+💜+and+a+touch+of+data+alchemy+🔮;by+Mohamed+Hosam+Othman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Crafted+with+love+and+data+skills;By+Mohamed+Hosam+Othman" alt="Typing SVG" />
 </p>
 
 <!-- 🏷️ Custom Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Wizard-🔮-5D3FD3?style=for-the-badge" alt="Data Wizard badge" />
-  <img src="https://img.shields.io/badge/Tech%20Lover-❤️-FF1493?style=for-the-badge" alt="Tech Lover badge" />
-  <img src="https://img.shields.io/badge/Built%20with%20Passion-🔥-FF8C00?style=for-the-badge" alt="Passion badge" />
+  <img src="https://img.shields.io/badge/Data%20Wizard-blue?style=for-the-badge" alt="Data Wizard badge" />
+  <img src="https://img.shields.io/badge/Tech%20Lover-red?style=for-the-badge" alt="Tech Lover badge" />
+  <img src="https://img.shields.io/badge/Built%20with%20Passion-orange?style=for-the-badge" alt="Passion badge" />
 </p>
-
