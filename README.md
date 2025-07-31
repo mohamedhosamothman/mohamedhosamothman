@@ -121,48 +121,50 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 </table>
 
 
-## 📫 Contact Me
+<!-- 🌐 Contact Section -->
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:mohamedhosamothman@gmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">🔗 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a> &nbsp;•&nbsp;
-  <a href="https://kaggle.com/mohamedhosamothman">📊 Kaggle</a>
+  <a href="mailto:mohamedhosamothman@gmail.com" style="text-decoration:none;" target="_blank">📧 <strong>Email</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/" style="text-decoration:none;" target="_blank">🔗 <strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="https://github.com/mohamedhosamothman" style="text-decoration:none;" target="_blank">🐱 <strong>GitHub</strong></a> &nbsp;•&nbsp;
+  <a href="https://www.kaggle.com/mohamedhosamothman" style="text-decoration:none;" target="_blank">📊 <strong>Kaggle</strong></a>
 </p>
 
-<hr style="margin-top: 20px; margin-bottom: 40px;">
+<br>
+<hr style="margin-top: 10px; margin-bottom: 40px;">
 
-<!-- 🌟 Final Message -->
-<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: auto; line-height: 1.8;">
+<!-- 🧠 Final Statement -->
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; line-height: 1.8; background-color: #f9f9f9; padding: 25px 35px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
 
-  <h3 style="color: #00BFFF; font-weight: bold; font-size: 24px; margin-bottom: 10px;">❝ I don’t just analyze data... ❞</h3>
+  <h3 style="color: #0077b6; font-size: 24px; font-weight: bold; margin-bottom: 10px;">❝ I don’t just analyze data... ❞</h3>
 
-  <p style="font-size: 18px; color: #444;">
-    I transform numbers into <strong style="color:#00BFFF;">insights</strong>,
-    <strong style="color:#00BFFF;">stories</strong>, and
-    <strong style="color:#00BFFF;">impactful actions</strong>.
+  <p style="font-size: 18px; color: #333;">
+    I turn raw numbers into <span style="color:#0077b6;"><strong>insights</strong></span>,
+    <span style="color:#0077b6;"><strong>stories</strong></span>, and
+    <span style="color:#0077b6;"><strong>real-world impact</strong></span>.
   </p>
 
-  <p style="font-size: 17px; color: #4CAF50; margin-top: 20px;">
-    🚀 Thanks for exploring my portfolio!
+  <p style="font-size: 17px; color: #43aa8b; margin-top: 20px;">
+    🚀 Thanks for stopping by my portfolio!
   </p>
 
   <p style="font-size: 16px; color: #555;">
-    If you believe in the power of data like I do —<br>
-    let's <strong>connect</strong>, <strong>collaborate</strong>, and build something <strong>meaningful</strong>.
+    If you're passionate about data too — let's <strong>connect</strong>, <strong>collaborate</strong>,
+    and build something <strong>meaningful</strong> together.
   </p>
 
-  <!-- 🔗 LinkedIn Badge -->
+  <!-- 🔗 Button Badge -->
   <div style="margin: 25px 0;">
     <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
-      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 
   <!-- 📞 Contact Info -->
   <p style="font-size: 15px; color: #333;">
     📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp;
-    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
+    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0a66c2; text-decoration: none;">
       mohamedhosamothman@gmail.com
     </a>
   </p>
