@@ -124,41 +124,47 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 <hr>
 
-<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.8;">
+<!-- 🌟 Final Message Card -->
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f0f8ff; box-shadow: 0 4px 12px rgba(0,0,0,0.06); line-height: 1.8;">
 
-  <h3 style="color: #0077b6; font-size: 24px; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
+  <h3 style="color: #007acc; font-size: 24px; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
 
-  <p style="font-size: 18px; color: #333;">
-    I transform data into <strong style="color:#0077b6;">insights</strong>,
-    <strong style="color:#0077b6;">stories</strong>, and
-    <strong style="color:#0077b6;">decisions that matter</strong>.
+  <p style="font-size: 18px; color: #222;">
+    I turn data into <strong style="color:#007acc;">insights</strong>,
+    <strong style="color:#007acc;">stories</strong>,
+    and <strong style="color:#007acc;">decisions that drive results</strong>.
   </p>
 
   <p style="font-size: 17px; color: #43aa8b; margin-top: 20px;">
-    🚀 Thanks for exploring my portfolio!
+    🚀 Thanks for visiting my GitHub!
   </p>
 
   <p style="font-size: 16px; color: #555;">
-    If you’re interested in working together or just want to connect —<br>
-    I’d love to hear from you!
+    Let’s connect and make data do wonders!
   </p>
 
-  <!-- 🔗 LinkedIn Badge -->
-  <div style="margin: 25px 0;">
+  <!-- 🔗 Contact Links -->
+  <div style="margin: 30px 0;">
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+
+    <!-- Email -->
+    <a href="mailto:mohamedhosamothman@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+
+    <!-- Phone -->
+    <a href="tel:+201024984060" target="_blank">
+      <img src="https://img.shields.io/badge/Phone-Call_Now-ff9933?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+    </a>
   </div>
 
-  <!-- 📞 Contact Info with Click-to-Call -->
-  <p align="center" style="font-size: 15px; color: #333;">
-  📞 <a href="tel:+201024984060" style="color: #0077b6; text-decoration: none;">
-    <strong>+20 102 498 4060</strong>
-  </a><br>
-  📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
-    mohamedhosamothman@gmail.com
-  </a>
-</p>
-📞 [Call me](tel:+201024984060)
-</div>
+  <!-- Text-based backup (in case badges don't load) -->
+  <p style="font-size: 15px; color: #333;">
+    📞 <a href="tel:+201024984060" style="color: #007acc; text-decoration: none;">+20 102 498 4060</a><br>
+    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #007acc; text-decoration: none;">mohamedhosamothman@gmail.com</a>
+  </p>
 
+</div>
