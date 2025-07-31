@@ -130,7 +130,7 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   <a href="https://kaggle.com/mohamedhosamothman">📊 Kaggle</a>
 </p>
 
----
+
 <hr>
 
 <p align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.8;">
@@ -147,5 +147,9 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</p>
+
+<p align="center" style="font-size: 16px; color: #333;">
+  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 <a href="mailto:mohamedhosamothman@gmail.com">mohamedhosamothman@gmail.com</a>
 </p>
 
