@@ -151,12 +151,14 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   </div>
 
   <!-- 📞 Contact Info with Click-to-Call -->
-  <p style="font-size: 15px; color: #333;">
-    📞 <a href="tel:+201024984060" style="color: #0077b6; text-decoration: none;"><strong>+20 102 498 4060</strong></a><br>
-    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
-      mohamedhosamothman@gmail.com
-    </a>
-  </p>
+  <p align="center" style="font-size: 15px; color: #333;">
+  📞 <a href="tel:+201024984060" style="color: #0077b6; text-decoration: none;">
+    <strong>+20 102 498 4060</strong>
+  </a><br>
+  📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
+    mohamedhosamothman@gmail.com
+  </a>
+</p>
 
 </div>
 
