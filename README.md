@@ -121,17 +121,18 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 </table>
 
 
+
 <hr>
 
-<!-- 🌟 Final Highlighted Message -->
-<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.8;">
+<!-- 🌟 Final Message -->
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.8;">
 
-  <h3 style="color: #0077b6; font-size: 24px; font-weight: bold; margin-bottom: 10px;">❝ I don’t just analyze data... ❞</h3>
+  <h3 style="color: #0077b6; font-size: 24px; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
 
   <p style="font-size: 18px; color: #333;">
     I transform data into <strong style="color:#0077b6;">insights</strong>,
     <strong style="color:#0077b6;">stories</strong>, and
-    <strong style="color:#0077b6;">real-world decisions</strong>.
+    <strong style="color:#0077b6;">decisions that matter</strong>.
   </p>
 
   <p style="font-size: 17px; color: #43aa8b; margin-top: 20px;">
@@ -139,40 +140,23 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   </p>
 
   <p style="font-size: 16px; color: #555;">
-    If you believe in the power of data like I do —<br>
-    let's <strong>connect</strong>, <strong>collaborate</strong>, and build something <strong>meaningful</strong>.
+    If you’re interested in working together or just want to connect —
+    I’d love to hear from you!
   </p>
-</div>
 
-<br>
+  <!-- 🔗 Contact Buttons -->
+  <div style="margin: 25px 0;">
+    <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
-<!-- 🔗 Contact Buttons -->
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:mohamedhosamothman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://github.com/mohamedhosamothman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://kaggle.com/mohamedhosamothman" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Explore_Data-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
+  <!-- 📞 Contact Info -->
+  <p style="font-size: 15px; color: #333;">
+    📞 <strong>+20 102 498 4060</strong><br>
+    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
+      mohamedhosamothman@gmail.com
+    </a>
+  </p>
 
 </div>
-
-<br>
-
-<!-- 📱 Contact Info -->
-<p align="center" style="font-size: 16px; color: #333;">
-  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp;
-  📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
-    mohamedhosamothman@gmail.com
-  </a>
-</p>
