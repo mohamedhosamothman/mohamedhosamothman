@@ -133,23 +133,31 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 <hr>
 
+<!-- 👋 Inspiring Final Message -->
 <p align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height:1.8;">
-  <em>
-    <strong style="font-size: 20px; color: #00BFFF;">❝ I don't just analyze data ❞</strong><br>
-    <span style="font-size: 18px; color: #555;">I uncover <b>stories</b>, solve <b>problems</b>, and spark <b>decisions</b>.</span>
-  </em><br><br>
 
-  <strong style="font-size: 18px; color: #4CAF50;">Thanks for scrolling all the way down! 🙏</strong><br>
-  <span style="font-size: 16px; color: #444;">If my passion for data speaks to you — let’s connect and create something impactful.</span>
+  <strong style="font-size: 22px; color: #00BFFF;">❝ I don’t just analyze data... ❞</strong><br>
+  <span style="font-size: 18px; color: #555;">
+    I transform numbers into <b>insights</b>, <b>stories</b>, and <b>impactful actions</b>.
+  </span><br><br>
+
+  <strong style="font-size: 19px; color: #4CAF50;">Thanks for exploring my portfolio! 🙏</strong><br>
+  <span style="font-size: 16px; color: #444;">
+    If you believe in the power of data like I do — let's connect and build something meaningful together.
+  </span>
 </p>
 
+<!-- 🔗 LinkedIn Button -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
+<!-- 📞 Contact Info -->
 <p align="center" style="font-size: 16px; color: #333;">
-  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 <a href="mailto:mohamedhosamothman@gmail.com">mohamedhosamothman@gmail.com</a>
+  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 
+  <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
+    mohamedhosamothman@gmail.com
+  </a>
 </p>
-
