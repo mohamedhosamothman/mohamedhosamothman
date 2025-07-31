@@ -124,21 +124,20 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:mohamedhosamothman@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">🔗 LinkedIn</a> • 
-  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a> • 
+  <a href="mailto:mohamedhosamothman@gmail.com">📧 Email</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/">🔗 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/mohamedhosamothman">🐱 GitHub</a> &nbsp;•&nbsp;
   <a href="https://kaggle.com/mohamedhosamothman">📊 Kaggle</a>
 </p>
 
+<hr style="margin-top: 20px; margin-bottom: 40px;">
 
-<hr>
+<!-- 🌟 Final Message -->
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: auto; line-height: 1.8;">
 
-<!-- 🌟 Final Statement - Centered & Styled -->
-<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h3 style="color: #00BFFF; font-weight: bold; font-size: 24px; margin-bottom: 10px;">❝ I don’t just analyze data... ❞</h3>
 
-  <h3 style="color: #00BFFF; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
-
-  <p style="font-size: 18px; color: #444; max-width: 600px; margin: auto;">
+  <p style="font-size: 18px; color: #444;">
     I transform numbers into <strong style="color:#00BFFF;">insights</strong>,
     <strong style="color:#00BFFF;">stories</strong>, and
     <strong style="color:#00BFFF;">impactful actions</strong>.
@@ -148,23 +147,23 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
     🚀 Thanks for exploring my portfolio!
   </p>
 
-  <p style="font-size: 16px; color: #666;">
+  <p style="font-size: 16px; color: #555;">
     If you believe in the power of data like I do —<br>
     let's <strong>connect</strong>, <strong>collaborate</strong>, and build something <strong>meaningful</strong>.
   </p>
 
-  <!-- 🔗 LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <!-- 🔗 LinkedIn Badge -->
+  <div style="margin: 25px 0;">
+    <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
   <!-- 📞 Contact Info -->
-  <p style="font-size: 15px; color: #333; margin-top: 15px;">
-    📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp; 📧 
-    <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
+  <p style="font-size: 15px; color: #333;">
+    📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp;
+    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0072b1; text-decoration: none;">
       mohamedhosamothman@gmail.com
     </a>
   </p>
-
 </div>
-
