@@ -121,51 +121,58 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 </table>
 
 
-<!-- 🌐 Contact Section -->
-<h2 align="center">📫 Let's Connect</h2>
+<hr>
 
-<p align="center">
-  <a href="mailto:mohamedhosamothman@gmail.com" style="text-decoration:none;" target="_blank">📧 <strong>Email</strong></a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst/" style="text-decoration:none;" target="_blank">🔗 <strong>LinkedIn</strong></a> &nbsp;•&nbsp;
-  <a href="https://github.com/mohamedhosamothman" style="text-decoration:none;" target="_blank">🐱 <strong>GitHub</strong></a> &nbsp;•&nbsp;
-  <a href="https://www.kaggle.com/mohamedhosamothman" style="text-decoration:none;" target="_blank">📊 <strong>Kaggle</strong></a>
-</p>
-
-<br>
-<hr style="margin-top: 10px; margin-bottom: 40px;">
-
-<!-- 🧠 Final Statement -->
-<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; line-height: 1.8; background-color: #f9f9f9; padding: 25px 35px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
+<!-- 🌟 Final Highlighted Message -->
+<div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 700px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.8;">
 
   <h3 style="color: #0077b6; font-size: 24px; font-weight: bold; margin-bottom: 10px;">❝ I don’t just analyze data... ❞</h3>
 
   <p style="font-size: 18px; color: #333;">
-    I turn raw numbers into <span style="color:#0077b6;"><strong>insights</strong></span>,
-    <span style="color:#0077b6;"><strong>stories</strong></span>, and
-    <span style="color:#0077b6;"><strong>real-world impact</strong></span>.
+    I transform data into <strong style="color:#0077b6;">insights</strong>,
+    <strong style="color:#0077b6;">stories</strong>, and
+    <strong style="color:#0077b6;">real-world decisions</strong>.
   </p>
 
   <p style="font-size: 17px; color: #43aa8b; margin-top: 20px;">
-    🚀 Thanks for stopping by my portfolio!
+    🚀 Thanks for exploring my portfolio!
   </p>
 
   <p style="font-size: 16px; color: #555;">
-    If you're passionate about data too — let's <strong>connect</strong>, <strong>collaborate</strong>,
-    and build something <strong>meaningful</strong> together.
-  </p>
-
-  <!-- 🔗 Button Badge -->
-  <div style="margin: 25px 0;">
-    <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
-      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-
-  <!-- 📞 Contact Info -->
-  <p style="font-size: 15px; color: #333;">
-    📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp;
-    📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0a66c2; text-decoration: none;">
-      mohamedhosamothman@gmail.com
-    </a>
+    If you believe in the power of data like I do —<br>
+    let's <strong>connect</strong>, <strong>collaborate</strong>, and build something <strong>meaningful</strong>.
   </p>
 </div>
+
+<br>
+
+<!-- 🔗 Contact Buttons -->
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:mohamedhosamothman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/mohamedhosamothman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://kaggle.com/mohamedhosamothman" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Explore_Data-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+
+</div>
+
+<br>
+
+<!-- 📱 Contact Info -->
+<p align="center" style="font-size: 16px; color: #333;">
+  📞 <strong>+20 102 498 4060</strong> &nbsp; | &nbsp;
+  📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
+    mohamedhosamothman@gmail.com
+  </a>
+</p>
