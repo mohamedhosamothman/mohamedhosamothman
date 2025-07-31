@@ -124,7 +124,6 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 <hr>
 
-<!-- 🌟 Final Message -->
 <div align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 720px; margin: auto; padding: 30px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 12px rgba(0,0,0,0.08); line-height: 1.8;">
 
   <h3 style="color: #0077b6; font-size: 24px; font-weight: bold;">❝ I don’t just analyze data... ❞</h3>
@@ -140,23 +139,24 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
   </p>
 
   <p style="font-size: 16px; color: #555;">
-    If you’re interested in working together or just want to connect —
+    If you’re interested in working together or just want to connect —<br>
     I’d love to hear from you!
   </p>
 
-  <!-- 🔗 Contact Buttons -->
+  <!-- 🔗 LinkedIn Badge -->
   <div style="margin: 25px 0;">
     <a href="https://www.linkedin.com/in/mohamed-hosam-analyst" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
 
-  <!-- 📞 Contact Info -->
+  <!-- 📞 Contact Info with Click-to-Call -->
   <p style="font-size: 15px; color: #333;">
-    📞 <strong>+20 102 498 4060</strong><br>
+    📞 <a href="tel:+201024984060" style="color: #0077b6; text-decoration: none;"><strong>+20 102 498 4060</strong></a><br>
     📧 <a href="mailto:mohamedhosamothman@gmail.com" style="color: #0077b6; text-decoration: none;">
       mohamedhosamothman@gmail.com
     </a>
   </p>
 
 </div>
+
