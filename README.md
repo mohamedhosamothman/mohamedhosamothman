@@ -83,13 +83,8 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 - Fully interactive dashboard for executives  
 - Filtered by region, category, date, and method
 
-  ### ☕️ [Coffee Sales Performance Dashboard – Excel](https://github.com/mohamedhosamothman/Coffee-Sales-Performance-Dashboard-in-Excel)
-- Interactive Excel dashboard built to analyze and visualize coffee sales (based on a public Kaggle dataset).
-- **KPIs:** total revenue, total orders, card vs cash revenue, card/cash orders, top-selling coffees.
-- **Features:** PivotTables & PivotCharts, Slicers (coffee type, payment method, month, hour), Power Query for data cleaning, conditional formatting.
-- **Includes:** ready-to-use workbook and dashboard screenshot.  
-  `Screenshot:` https://github.com/mohamedhosamothman/Coffee-Sales-Performance-Dashboard-in-Excel/blob/main/1.png
-- **Outcome:** clean, decision-ready dashboard that helps identify peak hours, top products, and payment trends.
+ ### ☕️ [Coffee Sales Performance Dashboard – Excel](https://github.com/mohamedhosamothman/Coffee-Sales-Performance-Dashboard-in-Excel)
+- Interactive Excel dashboard (Kaggle). KPIs: total revenue, orders, card vs cash. Filtered by coffee type, month, and hour.
 
 
 ---
