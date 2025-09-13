@@ -63,6 +63,11 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
 
 ## 🚀 Projects Showcase
 
+### 🏅 [Data Drip 2025 Hackathon – Power BI Case Study (Top 30)](https://github.com/mohamedhosamothman/data-drip-hackathon-powerbi)
+- End-to-end BI solution built during **Data Drip 2025 Hackathon** (organized by Qafza)  
+- Combined ETL, DAX, and interactive dashboards to analyze banking data  
+- Delivered executive, customer, card, and transaction dashboards + ~4-minute presentation  
+
 ### 🎬 [Pixar Films SQL Analysis](https://github.com/mohamedhosamothman/Pixar-Films-SQL-Analysis)
 - Performed deep dive into film performance using SQL Server  
 - Analyzed ROI, genres, awards, and profitability metrics  
