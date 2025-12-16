@@ -163,11 +163,11 @@ I specialize in designing insightful dashboards, cleaning and modeling large dat
     </a>
     <a href="mailto:mohamedhosamothman@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Send_Message-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="tel:+201024984060" target="_blank">
-      <img src="https://img.shields.io/badge/Call%20Me-+20%20102%20498%204060-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me"/>
-    </a>
-  </div>
+</a>
+<a href="tel:+966531093990" target="_blank">
+  <img src="https://img.shields.io/badge/Call%20Me-+966%20531%20093%20990-orange?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me"/>
+</a>
+</div>
 
   <!-- 📝 Inspirational Closing Quote -->
   <p style="font-size: 16px; color: #6c757d; font-style: italic; margin: 0;">
