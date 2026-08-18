@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Mohamed%20Hosam%20Othman&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+<h1>👋 Mohamed Hosam Othman</h1>
+<h3>Data Analyst & BI Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions;Building+full-stack+web+%26+AI+systems;3%2B+years+across+facilities%2C+debt+collection+%26+sales" alt="Typing SVG" />
 
@@ -198,12 +199,12 @@ Interactive executive dashboard filtered by region, category, date, and payment 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedhosamothman&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhosamothman&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhosamothman&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=mohamedhosamothman&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -230,6 +231,6 @@ Interactive executive dashboard filtered by region, category, date, and payment 
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" />
+<hr/>
 
 </div>
