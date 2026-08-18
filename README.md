@@ -19,13 +19,13 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-role: Data Analyst & BI Developer
-current: Land Sterling — Facilities Consultancy for Tatweer Buildings Company (TBC)
-scope: ~3,700 government schools · Western Region, Saudi Arabia
-experience: 3+ years — facilities management, debt collection, sales
-builds: BI dashboards · full-stack web systems · RAG-powered AI tools
-```
+<table>
+<tr><td>🎯</td><td><b>Role</b></td><td>Data Analyst & BI Developer</td></tr>
+<tr><td>🏢</td><td><b>Current</b></td><td>Land Sterling — Facilities Consultancy for Tatweer Buildings Company (TBC)</td></tr>
+<tr><td>📍</td><td><b>Scope</b></td><td>~3,700 government schools · Western Region, Saudi Arabia</td></tr>
+<tr><td>⏳</td><td><b>Experience</b></td><td>3+ years — facilities management, debt collection, sales</td></tr>
+<tr><td>🛠️</td><td><b>Builds</b></td><td>BI dashboards · full-stack web systems · RAG-powered AI tools</td></tr>
+</table>
 
 🏗️ I currently work as a **Data Analyst on Land Sterling's consulting team**, building and maintaining an enterprise-grade facilities platform for **Tatweer Buildings Company (TBC)** across the Western Region of Saudi Arabia.
 
